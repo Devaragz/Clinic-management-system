@@ -1,6 +1,6 @@
-# Dental Clinic Management System 🦷
+# Clinic Management System
 
-A secure, modular Command Line Interface (CLI) application designed to manage dental clinic operations. This project demonstrates backend architecture principles, secure credential management, and efficient Database Management System (DBMS) integration.
+A secure, modular Command Line Interface (CLI) application designed to manage clinic operations. This project demonstrates backend architecture principles, secure credential management, and efficient Database Management System (DBMS) integration.
 
 ## 🚀 Features
 * **Modular Architecture:** Separation of concerns across database connections, authentication, and CRUD operations for scalability and maintainability.
